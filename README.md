@@ -9,5 +9,5 @@
 <h3 align="left">Support:</h3>
 <p><a target="blank" href="https://www.paypal.me/hillaliy"><img src="https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=paypal"/></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillaiy&show_icons=true&theme=graywhite&locale=en" alt="hillaliy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hillaliy&show_icons=true&theme=graywhite&locale=en" alt="hillaliy" /></p>
 
