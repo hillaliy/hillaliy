@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Yossi</h1>
-<h3 align="left">A Python full stack developer from Israel</h3>
+<h1 align="center">Hi, I'm Yossi</h1>
+<h3 align="center">A Python full stack developer from Israel</h3>
 
 - I’m currently working on [Homarr](https://github.com/homarr-labs/homarr)
 
