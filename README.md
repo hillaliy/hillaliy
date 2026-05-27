@@ -2,8 +2,7 @@
 <h3 align="center">Python Full Stack Developer from Israel 🇮🇱</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%7C+Next.js+%7C+Docker;Open+Source+Contributor;Building+Modern+Web+Apps" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Yossi%20Hillali&fontSize=55&color=0:1a1a1a,100:007cf0&stroke=00c6ff&fontColor=ffffff" width="100%" />
 </p>
 
 ---
