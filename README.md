@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yossi Hillali</h1>
 <h3 align="center">Python Full Stack Developer from Israel 🇮🇱</h3>
 
-<p align="center">
-  <a href="https://github.com/hillaliy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Python+Developer;Next.js+%2B+Django+Developer;Docker+%26+Self-Hosting+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer;Next.js+%2B+Django+Developer;Docker+%26+Self-Hosting+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /> </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently contributing to **[Homarr](https://github.com/homarr-labs/homarr)**
 - 🐳 Passionate about **Docker, self-hosting & automation**
 - ⚡ Building modern apps with **Django + Next.js**
 - 🛠️ IT Technician & Full Stack Developer
