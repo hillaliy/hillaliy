@@ -1,58 +1,60 @@
-<h1 align="center">Hi 👋, I'm Yossi Hillali</h1>
-<h3 align="center">Python Full Stack Developer from Israel 🇮🇱</h3>
+<h1 align="center">Hi, I'm Yossi Hillali 👋</h1>
+<h3 align="center">Python Full-Stack Developer | Django • Next.js • Docker</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Yossi%20Hillali&fontSize=55&color=0:1a1a1a,100:007cf0&stroke=00c6ff&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Yossi%20Hillali&fontSize=54&color=0:1a1a1a,100:007cf0&stroke=00c6ff&fontColor=ffffff" width="100%" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🐳 Passionate about **Docker, self-hosting & automation**
-- ⚡ Building modern apps with **Django + Next.js**
-- 🛠️ IT Technician & Full Stack Developer
-- 🌱 Always learning new technologies
+I'm a full-stack developer and IT technician from Israel 🇮🇱.
+
+I build practical web applications with a strong backend foundation, clean frontend interfaces, and reliable deployment workflows.
+
+- Building apps with **Django, Django REST Framework, Next.js, and Mantine**
+- Interested in **Docker, automation, self-hosting, and infrastructure**
+- Experienced with IT support, systems, and real-world operational needs
+- Focused on building tools that are useful, maintainable, and easy to use
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,nodejs,react,nextjs,docker,html,css,bootstrap&perline=6" />
-
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,nodejs,react,nextjs,docker,html,css,bootstrap,git,github,linux&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+- Django APIs and admin workflows
+- Next.js frontend dashboards
+- Automation and self-hosted services
+- Docker-based development and deployment
+- Building production-ready community and business tools
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hillaliy&theme=tokyonight&hide_border=true" />
 </p>
----
-
-## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillaliy&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Overview 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hillaliy&theme=tokyonight" />
 </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillaliy&theme=tokyonight&utcOffset=2" />
-  </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/hillaliy">
@@ -67,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hillaliy&label=Profile%20views&color=0e75b6&style=flat" alt="hillaliy" />
+  <img src="https://komarev.com/ghpvc/?username=hillaliy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
