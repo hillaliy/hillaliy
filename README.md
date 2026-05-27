@@ -45,10 +45,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hillaliy&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hillaliy&theme=tokyonight" />
 </p>
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hillaliy&theme=tokyonight" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillaliy&theme=tokyonight&utcOffset=2" />
   </p>
 
