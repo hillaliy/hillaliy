@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Yossi Hillali</h1>
 <h3 align="center">Python Full Stack Developer from Israel 🇮🇱</h3>
 
@@ -73,4 +72,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hillaliy&label=Profile%20views&color=0e75b6&style=flat" alt="hillaliy" />
 </p>
-```
