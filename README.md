@@ -28,22 +28,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=hillaliy&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillaliy&theme=tokyonight" /> </p>
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hillaliy&theme=tokyonight&hide_border=true" />
 </p>
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillaliy&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Overview 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hillaliy&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillaliy&theme=tokyonight" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hillaliy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hillaliy&theme=tokyonight" />
+</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hillaliy&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillaliy&theme=tokyonight&utcOffset=2" />
+  </p>
 
 ---
 
