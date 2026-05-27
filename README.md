@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yossi Hillali</h1>
 <h3 align="center">Python Full Stack Developer from Israel 🇮🇱</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&random=false&width=600&lines=Python+Developer;Next.js+%2B+Django+Developer;Docker+%26+Self-Hosting+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /> </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%7C+Next.js+%7C+Docker;Open+Source+Contributor;Building+Modern+Web+Apps" alt="Typing SVG"/>
+</p>
 
 ---
 
